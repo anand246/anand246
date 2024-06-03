@@ -1,7 +1,6 @@
-![Design and Development](https://drive.google.com/file/d/1PtzSSezxHBhxraY7g_1zVjE-q7gz-L_5/view?usp=drive_link)
-
-### Hi there 👋, my name is Anandsagar Shaji
-#### Design and Development
+![Software Developer](https://firebasestorage.googleapis.com/v0/b/firetest-c136a.appspot.com/o/banner.jpg?alt=media&token=f776beae-106a-4dc9-a263-ddedfb83ddac)
+### Hi there 👋, I am  Anandsagar
+#### Software Developer
 
 Hello, I'm Anandsagar Shaji, a passionate software developer with a strong foundation in computer science and a specialized focus on artificial intelligence and machine learning. I hold a Bachelor's degree in Computer Science and Engineering (2019) and recently completed an Ontario Graduate Certificate in AI with Machine Learning (2024). With 3 years of experience in front-end development and Python, I thrive on creating innovative solutions and continuously advancing my skills in cutting-edge technologies.
 
